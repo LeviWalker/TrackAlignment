@@ -1,0 +1,2 @@
+0 Broken Images
+1 Non broken images
